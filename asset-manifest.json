@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Shivamgupta3/Word-Converter-counter/static/css/main.f855e6bc.css",
-    "main.js": "/Shivamgupta3/Word-Converter-counter/static/js/main.cdb4b28e.js",
+    "main.js": "/Shivamgupta3/Word-Converter-counter/static/js/main.19cbca10.js",
     "static/js/453.ed3810f9.chunk.js": "/Shivamgupta3/Word-Converter-counter/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Shivamgupta3/Word-Converter-counter/index.html",
     "main.f855e6bc.css.map": "/Shivamgupta3/Word-Converter-counter/static/css/main.f855e6bc.css.map",
-    "main.cdb4b28e.js.map": "/Shivamgupta3/Word-Converter-counter/static/js/main.cdb4b28e.js.map",
+    "main.19cbca10.js.map": "/Shivamgupta3/Word-Converter-counter/static/js/main.19cbca10.js.map",
     "453.ed3810f9.chunk.js.map": "/Shivamgupta3/Word-Converter-counter/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cdb4b28e.js"
+    "static/js/main.19cbca10.js"
   ]
 }
